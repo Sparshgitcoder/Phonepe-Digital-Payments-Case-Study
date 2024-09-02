@@ -69,11 +69,8 @@ Task 2: Exploratory Data Analysis (EDA)
 
 Task 3: Data Quality Checks
 3.1: Ensure data consistency across state and district levels.
-
 1.⁠ ⁠For each state, calculate the total number of transactions, total transaction amount, and total registered users by summing up the values from the district level data.
-
 2.⁠ ⁠Compare the results with the corresponding values at the state level to ensure they match.
-
 3.⁠ ⁠Display any discrepancies found between the district-level and state-level data.
 
 Task 4: Data Merging and Advanced Analysis
@@ -111,5 +108,5 @@ Task 6: Insights and Conclusions [Advanced Section]6.1: Identify any trends or p
 1.⁠ ⁠Analyze the transaction data to identify any noticeable trends or patterns.
 
 6.2: Correlate demographic data with transaction data
-1.⁠ ⁠Find correlations between demographic data (e.g., population density) and transaction data (e.g., transaction volume). Summarize your findings. 
+1.⁠ ⁠Find correlations between demographic data (e.g., population density) and transaction data (e.g., transaction volume). Summarize findings. 
 
