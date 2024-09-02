@@ -5,11 +5,16 @@ The datasets span multiple years and quarters, providing a comprehensive view of
 Dataset Details:
 The data is spread across multiple sheets in an Excel file containing different aspects of the transaction and demographic data. Below is an overview of each dataset:
 This case study utilizes three key datasets, each providing daily updates on different aspects of the pandemic for various countries and regions:
+
 •⁠  ⁠State_T and Users: This dataset contains transaction and user data at the state level. It includes information on the number of transactions, total transaction amount, average transaction value, number of registered users, and
 app opens.
+
 •⁠  ⁠State_TxnSplit: This dataset provides a breakdown of transaction types at the state level. It includes information on different transaction types, the number of transactions, the total transaction amount, and the average transaction value for each type.
+
 •⁠  ⁠State_DeviceData: This dataset details the device brands used by registered users at the state level. It includes information on the number of registered users per device brand and the percentage of users using each brand.
+
 •⁠  ⁠District_Txn and Users: This dataset contains transaction and user data at the district level. It includes information on the number of transactions, total transaction amount, average transaction value, number of registered users, and app opens for each district.
+
 •⁠  ⁠District Demographics: This dataset provides demographic details for each district. It includes information on the population, area, population density, and district headquarters.
 
 Task 1: Data Loading and Understanding
