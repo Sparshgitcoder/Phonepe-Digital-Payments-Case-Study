@@ -68,9 +68,12 @@ Task 2: Exploratory Data Analysis (EDA)
 2.⁠ ⁠Create a CSV file containing the unique district name and district code mappings.3.⁠ ⁠Export the CSV file.
 
 Task 3: Data Quality Checks
-3.1: Ensure data consistency across state and district levels
+3.1: Ensure data consistency across state and district levels.
+
 1.⁠ ⁠For each state, calculate the total number of transactions, total transaction amount, and total registered users by summing up the values from the district level data.
+
 2.⁠ ⁠Compare the results with the corresponding values at the state level to ensure they match.
+
 3.⁠ ⁠Display any discrepancies found between the district-level and state-level data.
 
 Task 4: Data Merging and Advanced Analysis
